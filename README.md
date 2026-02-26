@@ -141,10 +141,5 @@ customer-support-agent/
 
 ---
 
-## 📄 License
+Built to demonstrate agentic AI design patterns with LangChain and OpenAI tool-calling.
 
-MIT License © 2024
-
----
-
-> Built to demonstrate agentic AI design patterns with LangChain and OpenAI tool-calling.
